@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68c21154-8542-4ff3-93c5-60c7b6e0ca58" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="350etS5FI6smYr3COaswI5C8GXV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\К-1\Desktop\Nurbolot 4-группа\WebStudio\img" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68c21154-8542-4ff3-93c5-60c7b6e0ca58" name="Default Changelist" comment="" />
+      <created>1762251630606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762251630606</updated>
+      <workItem from="1762251632168" duration="5598000" />
+      <workItem from="1762424072270" duration="6278000" />
+      <workItem from="1762512428088" duration="680000" />
+      <workItem from="1762598176360" duration="5214000" />
+      <workItem from="1762761060250" duration="595000" />
+      <workItem from="1763033665154" duration="1023000" />
+      <workItem from="1763552313890" duration="236000" />
+      <workItem from="1766463444045" duration="24000" />
+      <workItem from="1766463520336" duration="3000" />
+      <workItem from="1766571425716" duration="10000" />
+      <workItem from="1767690348498" duration="87000" />
+      <workItem from="1767690441556" duration="12000" />
+      <workItem from="1767690528643" duration="2151000" />
+      <workItem from="1767692886711" duration="160000" />
+      <workItem from="1771242425820" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
